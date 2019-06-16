@@ -19,15 +19,10 @@ Soon...
 
 ## Future functionality
 
-- User commands
-  - 
-  
-- Moderator system 
-  - 
-  
-- Administrator system
-  - 
+Soon...
 
 The plans still a lot of things. We also do not affect the internal composition and auxiliary functions... Soon you will be able to learn about everything in more detail, but for now that's all for now. You can learn more about the functionality in the bot itself after our release!
 
 ## The authors
+
+
