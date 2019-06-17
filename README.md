@@ -1,4 +1,4 @@
-<p><img src="https://psv4.userapi.com/c848420/u187771830/docs/d16/d70872b7d9d6/Bez_imeni-1.png?extra=Xup0OOcVwLXKaRjTvgZ_QDcizzdrHUEry81N-j6_DYHQ09RYztdPSSC6EhtOcFoeJsDiS_nYpusbpn6UZaLMDA_jkW2nCJsCDUzzamqIyuI1VEn370jwgNxgJgSF-hNgbg9Du6_CWIrbZU4kgw0hfJVrYg" alt="" width="817" height="165" /></p>
+<p><img src="./.github/img/logo.png" alt="" width="817" height="165" /></p>
 
 <p align="center">
 <a href="https://discord.gg/ZHEDdBB"><img alt="Discord" src="https://img.shields.io/discord/585176665630703641.svg">
