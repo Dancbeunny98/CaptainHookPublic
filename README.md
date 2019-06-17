@@ -27,4 +27,4 @@ The plans still a lot of things. We also do not affect the internal composition 
 
 <strong>y21</strong> — main Developer and Project Maintainer.
 <br><strong>Dancebunny98</strong> — second Developer and Project Manager.
-<br><strong>Feniksovich</strong> — project Designer and Executive Admin.
+<img src="https://avatars2.githubusercontent.com/u/33875970?s=460&v=4" alt="" width="16" height="16" /><br><strong>Feniksovich</strong> — project Designer and Executive Admin.
