@@ -5,6 +5,7 @@
 <a href="https://github.com/Dancbeunny98/CaptainHookPublic/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Dancbeunny98/CaptainHookPublic.svg"></a>
 <a href="https://github.com/Dancbeunny98/CaptainHookPublic/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Dancbeunny98/CaptainHookPublic.svg"></a>
 <img alt="Bot Version" src="https://img.shields.io/badge/bot%20version-pre--alpha-red.svg"></a>
+<a href="https://paypal.me/Dancebunny98"><img alt="PayPal" src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Feniksovich.svg?label=Follow&style=social">
 </p>
 
