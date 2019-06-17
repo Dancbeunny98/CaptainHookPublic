@@ -13,16 +13,18 @@
   It all started with an idea. Initially, the idea was to create a personal bot for small opportunities, but then a new, better idea came to mind. Why not make a bot that will be superior in functionality to popular bots? But the problem was in the original - is it necessary to do this? How good is this idea? Yes! Of course. Creating something that will be realized differently than others is a better idea. People will use this bot because of some functionality that is not found in other bots, but it will also be used because it will be possible even for a child! Everything is done as simple as possible and without worries!
   The functionality will increase with time. At the moment we have just started developing and are not going to pack our bags. If we compare what was a couple of weeks ago and what is now, then we have done a great job ... Now we are in the active development stage, but you can already test our bot now!
 
-## Current functionality
+## Current Functional
 
 Soon...
 
-## Future functionality
+## Future Functional
 
 Soon...
 
 The plans still a lot of things. We also do not affect the internal composition and auxiliary functions... Soon you will be able to learn about everything in more detail, but for now that's all for now. You can learn more about the functionality in the bot itself after our release!
 
-## The authors
+## Authors
 
-
+<strong>y21</strong> — main Developer and Project Maintainer.
+<strong>Dancebunny98</strong> — second Developer and Project Manager.
+<strong>Feniksovich</strong> — project Designer and Executive Admin.
