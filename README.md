@@ -33,12 +33,16 @@ The plans still a lot of things. We also do not affect the internal composition 
 <table>
 <tr>
 <td align="center">
-    <img src="https://cdn.discordapp.com/avatars/196098063092154368/78a810438015b20ea8d530fafc7fe463.png?size=128" width="100px;" alt="Kraken"/><br />
-    <strong>Kraken</strong><br />
+    <img src="https://cdn.discordapp.com/avatars/312715611413413889/48a6c440aac9dace444afe9d23931704.png" width="100px;" alt="y21"/><br/>
+    <strong>y21</strong><br/>
 </td>
 <td align="center">
-    <img src="https://cdn.discordapp.com/attachments/585514483699417089/585552300354043915/34959069_500_500.jpg" width="100px;" alt="SPHHAX"/><br />
-    <a href="http://sphh.ax/" target="_blank" rel="noreferrer noopener"><strong>SPHHAX</strong></a><br />
+    <img src="./.github/img/dancebunny98.png" width="100px;" alt="Dancebunny98"/><br/>
+    <strong>Dancebunny98</strong><br/>
+</td>
+<td align="center">
+    <img src="./.github/img/feniksovich.png" width="100px;" alt="Feniksovich"/><br/>
+    <strong>Feniksovich</strong><br/>
 </td>
 </tr>
 </table>
