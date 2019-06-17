@@ -15,3 +15,10 @@ We do not refuse assistance from outside developers, if you know something in th
 ### Contributing documentation
 
 As a member of our team, you can contribute to the development, but you have to take into account that all your changes can be seen by a regular user. Make sure your change is accurate, no need to rush. It is better to think over several times than to fix it many times.
+
+### Helping others
+
+Any user can help us with our problems. Periodically, we ask for help from users, and you can help us!
+
+You can monitor [issues](https://github.com/Dancbeunny98/CaptainHookPublic/issues), and help other people who
+have questions about contributing, or using it for their.
