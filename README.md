@@ -34,15 +34,15 @@ The plans still a lot of things. We also do not affect the internal composition 
 <tr>
 <td align="center">
     <img src="https://cdn.discordapp.com/avatars/312715611413413889/48a6c440aac9dace444afe9d23931704.png" width="100px;" alt="y21"/><br/>
-    <strong>y21</strong> <br>Main Developer<br/>
+    <a href="https://github.com/y21/"><strong>y21</strong></a> <br>Main Developer<br/>
 </td>
 <td align="center">
     <img src="./.github/img/dancebunny98.png" width="100px;" alt="Dancebunny98"/><br/>
-    <strong>Dancebunny98</strong> <br>Project Manager<br/>
+    <a href="https://github.com/Dancbeunny98/"><strong>Dancebunny98</strong></a> <br>Project Manager<br/>
 </td>
 <td align="center">
     <img src="./.github/img/feniksovich.png" width="100px;" alt="Feniksovich"/><br/>
-    <strong>Feniksovich</strong> <br>Chief Designer<br/>
+    <a href="https://github.com/Feniksovich/"><strong>Feniksovich</strong></a> <br>Chief Designer<br/>
 </td>
 </tr>
 </table>
