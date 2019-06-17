@@ -5,6 +5,7 @@
 <a href="https://github.com/Dancbeunny98/CaptainHookPublic/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Dancbeunny98/CaptainHookPublic.svg"></a>
 <a href="https://github.com/Dancbeunny98/CaptainHookPublic/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Dancbeunny98/CaptainHookPublic.svg"></a>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Feniksovich.svg?label=Follow&style=social">
+<img alt="Bot Version" src="https://img.shields.io/badge/bot%20version-pre--alpha-red.svg"></a>
 </p>
 
 ## About Us
