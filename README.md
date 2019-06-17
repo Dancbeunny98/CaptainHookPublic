@@ -1,4 +1,4 @@
-<h1 style="padding-left: 30px; text-align: left;"><img src="https://psv4.userapi.com/c848228/u187771830/docs/d6/b82685fefad0/planet-earth.png?extra=dQG3APL-sStsBCKH5M_Ld5zCpgkNX3KkISoQ6vbJLukhEh5A2OdqeDjInY-Lr3n1JTiRGE5JT4mRpiYAB95a7gMsuMj8ywUgXaKaM43C_FeWdLZORQygTuaAzzz0PUB5Upay2by94hwsfT0PajI75wpvVA" alt="https://psv4.userapi.com/c848228/u187771830/docs/d6/b82685fefad0/planet-earth.png?extra=dQG3APL-sStsBCKH5M_Ld5zCpgkNX3KkISoQ6vbJLukhEh5A2OdqeDjInY-Lr3n1JTiRGE5JT4mRpiYAB95a7gMsuMj8ywUgXaKaM43C_FeWdLZORQygTuaAzzz0PUB5Upay2by94hwsfT0PajI75wpvVA" width="174" height="174" style="border-width: 1px; margin: 1px 2px 1px 2px;" caption="false" /></h1>
+<p><img src="https://psv4.userapi.com/c848420/u187771830/docs/d16/d70872b7d9d6/Bez_imeni-1.png?extra=Xup0OOcVwLXKaRjTvgZ_QDcizzdrHUEry81N-j6_DYHQ09RYztdPSSC6EhtOcFoeJsDiS_nYpusbpn6UZaLMDA_jkW2nCJsCDUzzamqIyuI1VEn370jwgNxgJgSF-hNgbg9Du6_CWIrbZU4kgw0hfJVrYg" alt="" width="817" height="165" /></p>
 
 <p align="center">
 <a href="https://discord.gg/ZHEDdBB"><img alt="Discord" src="https://img.shields.io/discord/585176665630703641.svg">
