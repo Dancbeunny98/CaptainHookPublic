@@ -25,6 +25,6 @@ The plans still a lot of things. We also do not affect the internal composition 
 
 ## Authors
 
-<strong>y21</strong> — main Developer and Project Maintainer.
-<br><img src="https://avatars0.githubusercontent.com/u/37336183?s=400&v=4" alt="" width="16" height="16" /><strong>Dancebunny98</strong> — second Developer and Project Manager.
-<br><img src="https://avatars2.githubusercontent.com/u/33875970?s=460&v=4" alt="" width="16" height="16" /><strong>Feniksovich</strong> — project Designer and Executive Admin.
+<img src="https://cdn.discordapp.com/avatars/312715611413413889/48a6c440aac9dace444afe9d23931704.png" alt="" width="16" height="16"/> <strong>y21</strong> — main Developer and Project Maintainer.
+<br><img src="https://cdn.discordapp.com/avatars/239676157560094720/8b4a3cf278fb323a681adea357da3f75.png" alt="" width="16" height="16" /> <strong>Dancebunny98</strong> — second Developer and Project Manager.
+<br><img src="https://cdn.discordapp.com/avatars/248480010225057793/c86db50392a2aa81893a969b17b7e9a3.png" alt="" width="16" height="16" /> <strong>Feniksovich</strong> — project Designer and Executive Admin.
