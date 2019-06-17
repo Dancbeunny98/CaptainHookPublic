@@ -26,5 +26,5 @@ The plans still a lot of things. We also do not affect the internal composition 
 ## Authors
 
 <strong>y21</strong> — main Developer and Project Maintainer.
-<strong>Dancebunny98</strong> — second Developer and Project Manager.
-<strong>Feniksovich</strong> — project Designer and Executive Admin.
+<br><strong>Dancebunny98</strong> — second Developer and Project Manager.
+<br><strong>Feniksovich</strong> — project Designer and Executive Admin.
